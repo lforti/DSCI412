@@ -1,0 +1,41 @@
+---
+title: "Github Commands"
+author: "Lauren Forti"
+date: "12/6/2022"
+output: html_document
+---
+
+### **Week 1:** Predictive Modeling & Processes
+- R markdown
+- evaluating models
+
+### **Week 2:** Data Exploration
+- EDA
+- transformation of variables
+
+### **Week 3:** Linear Regression
+- build model linear regression model in R
+- interpreting R results for coefficients
+
+### **Week 4:** Classification
+- build logistic regression model in R
+- interpreting R results w/ confusion matrix
+
+### **Week 5:** Generalized Linear Models
+- build GLMS in R
+- analyze actual vs predicted graphically
+
+### **Week 6:** Tree Based Models
+- build decision tree in R w/ optimal parameters
+- build random forests in R
+
+### **Week 7:** Unsupervised Methods
+- determine # of clusters w/ gap stat or silhouette method
+- visualize clusters
+
+### **Week 8:** Delivering Results
+- format slides in R markdown
+- github commands
+\
+\
+\
