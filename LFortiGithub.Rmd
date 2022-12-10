@@ -6,36 +6,36 @@ output: html_document
 ---
 
 ### **Week 1:** Predictive Modeling & Processes
-- R markdown
-- evaluating models
+- Data can be exported from R with write.csv(data, file="path").
+- Regression models can be evaluated with RMSE, R^2, absolute error.
 
 ### **Week 2:** Data Exploration
-- EDA
-- transformation of variables
+- Summary statistics can reveal missing values, outliers, invalid values, and data ranges.
+- Variables can be transformed with scale().
 
 ### **Week 3:** Linear Regression
-- build model linear regression model in R
-- interpreting R results for coefficients
+- Build a linear regression model before trying more complicated methods.
+- A positive coefficient indicates a positive relationship between the predictor and the response.
 
 ### **Week 4:** Classification
-- build logistic regression model in R
-- interpreting R results w/ confusion matrix
+- Logistic regression is for predicting qualitative responses.
+- Classification models can be evaluated with accuracy and confusion matrices.
 
 ### **Week 5:** Generalized Linear Models
-- build GLMS in R
-- analyze actual vs predicted graphically
+- GLMs relax the assumptions of traditional linear models which allows for the analysis of data that does not have a normal distribution.
+- The actual vs predicted can be analyzed graphically.
 
 ### **Week 6:** Tree Based Models
-- build decision tree in R w/ optimal parameters
-- build random forests in R
+- Decision trees are sensitive to even small changes in the data. 
+- Random forests have smaller variance than decision trees.
 
 ### **Week 7:** Unsupervised Methods
-- determine # of clusters w/ gap stat or silhouette method
-- visualize clusters
+- Unsupervised learning has only features whereas supervised learning has features and predictors.
+- The number of clusters (k) can be determined with the gap_stat or silhouette method.
 
 ### **Week 8:** Delivering Results
-- format slides in R markdown
-- github commands
+- iOS slides can be made by changing the output format of the markdown file to ioslides_presentation.
+- git clone will create a copy an existing repository.
 \
 \
 \
